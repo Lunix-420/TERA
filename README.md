@@ -24,4 +24,11 @@ If you want to contribute:
 2. Or submit a pull request with improvements.
 
 ## License
-This project uses the GPLv3 license. See `LICENSE` for details.
+
+This project uses the **CC BY-SA 4.0** license. See `LICENSE` for details.
+
+You are free to **share** (copy and redistribute) and **adapt** (modify) this guide, as long as you:
+
+* Give proper **credit** to the original author.
+* Distribute any derivative works under the **same license**.
+* Use it for **non-commercial or commercial purposes** without removing credit.

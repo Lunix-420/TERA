@@ -135,7 +135,7 @@ Make sure you upgrade your inventory in Velika before you peace out. Also check 
 
 ### Level 13 to 20
 
-Before you do anything, open the TERA store and grab the free underwear gift. Without that giant defence boost the next part is actual suffering.
+Before you do anything, open the TERA store and grab the free underwear gift. Without that giant defence boost the next part is actual suffering. Because of MMO logic, the panties you just equipped protect you more than literal metal-plated armor, so you are now absolutely busted.
 
 Teleport to Crescentia and go south. There’s a downhill road with a bunch of Hyena Stalkers chilling there. They’re way above your level but who cares, you just equiped underwear that makes you virtually invulnerable. Pull a group of the monsters, delete them, repeat. Go slow at first, then ramp it up once you get comfy.
 

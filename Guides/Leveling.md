@@ -125,6 +125,31 @@ Charms are consumables you buy from the speciality store, then you toss them int
 * Endurance is the weakest value pick, more of a comfort buff.
 * If you’re low on cash, buying **cheap green Infused charms** is still way better than running without mana regen.
 
+## Actual Leveling
+
+### Level 1 to 13
+
+Just follow the main quest line until you hit level 13 or reach Lumbertown, whichever comes first. After that you straight up stop questing entirely until level 60. Quests are a waste of time, ignore them.
+
+Make sure you upgrade your inventory in Velika before you peace out. Also check the Discord for promo codes for the TERA store. Classic usually gives out some boxes with alkahest and random crap you can sell for gold, which helps a ton with your early charm and crystal budget. And you might get some credits for cool fashion items.
+
+### Level 13 to 20
+
+Before you do anything, open the TERA store and grab the free underwear gift. Without that giant defence boost the next part is actual suffering.
+
+Teleport to Crescentia and go south. There’s a downhill road with a bunch of Hyena Stalkers chilling there. They’re way above your level but who cares, you just equiped underwear that makes you virtually invulnerable. Pull a group of the monsters, delete them, repeat. Go slow at first, then ramp it up once you get comfy.
+
+Use your pet to vacuum up all the loot so you don’t waste time running around like a clown.
+
+Stay here until you’re level 20. These mobs will eventually start dropping weapon shards, and once you complete the set you get your first avatar weapon. Your number one priority is getting that thing to +9 the moment you get it. If you don’t, the next section is gonna feel like punching concrete.
+
+You’ll also start getting glyphs around this point. Invest them as soon as you unlock them, they’re massive damage boosts. Even if you have no idea in what, you can reskill at any time for free.
+
+### Level 20 to 27
+
+Once you hit level 20 and your avatar weapon is +9, head back to Crescentia and walk north into Bestial Vale. This is where you meet your first real BAMs, the normal Basilisks. They hit hard but are slow as fuck. Kill them one by one and don’t forget to swap to your BAM crystal setup.
+
+These guys give solid EXP, so you can stay here for a while. I would stick around at least until level 26, but you can push it to 29 or so if it doesn’t bore you to death.
 
 
 

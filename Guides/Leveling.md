@@ -64,13 +64,9 @@ I don’t recommend this for most classes, but it works pretty well on Lancers a
 
 Use this setup when you’re clearing big packs of normal mobs.
 
-| Slot | Crystal Type      | Notes                                              |
-| ---- | ----------------- | -------------------------------------------------- |
-| 1    | Focused           | Increase crit power against enraged monsters       |
-| 2    | Pounding / Hunter | Flat damage against all enemies or normal monsters |
-| 3    | Pounding / Hunter | Flat damage against all enemies or normal monsters |
-| 4    | Pounding / Hunter | Flat damage against all enemies or normal monsters |
-
----
-
-If you want, drop the next section and I’ll clean that too.
+| Slot | Crystal Type        | Notes                                              |
+| ---- | ------------------- | -------------------------------------------------- |
+| 1    | Pounding / Mutinous | Increase damage against monsters or bosses         |
+| 2    | Pounding / Mutinous | Increase damage against monsters or bosses         |
+| 3    | Pounding / Mutinous | Increase damage against monsters or bosses         |
+| 4    | Pounding / Mutinous | Increase damage against monsters or bosses         |

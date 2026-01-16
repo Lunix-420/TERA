@@ -2,7 +2,7 @@
 
 Guides written by me for the TERA EU Classic private server. The goal of this repository is to collect helpful information for new and returning players, starting with a full leveling guide and expanding over time as more content is added.
 
-This project is not affiliated with the TERA EU Classic server team. All guides are written independently by players.
+This project is not affiliated with the TERA EU Classic server team. All guides are written independently by me and other players.
 
 ## Contents
 

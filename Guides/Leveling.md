@@ -125,54 +125,54 @@ Charms are consumables you buy from the speciality store, then you toss them int
 * Endurance is the weakest value pick, more of a comfort buff.
 * If you’re low on cash, buying **cheap green Infused charms** is still way better than running without mana regen.
 
+---
+
 ## Actual Leveling
 
 ### Level 1 to 13
 
-Just follow the main quest line until you hit level 13 or reach Lumbertown, whichever comes first. After that you straight up stop questing entirely until level 60. Quests are a waste of time, ignore them.
+Just follow the main quest line until you hit **level 13** or reach **Lumbertown**, whichever comes first. After that stop questing entirely until **level 60**. Quests are a waste of time.
 
-Make sure you upgrade your inventory in Velika before you peace out. Also check the Discord for promo codes for the TERA store. Classic usually gives out some boxes with alkahest and random crap you can sell for gold, which helps a ton with your early charm and crystal budget. And you might get some credits for cool fashion items.
+Don't forget to upgrade your inventory in **Velika**.
+
+Also check the Discord for coupons for the **TERA store**. **TERA EU Classic** usually gives out some boxes with **alkahest** and random crap you can sell for gold, which helps a ton with your budget.
 
 ### Level 13 to 20
 
-Before you do anything, open the TERA store and grab the free underwear gift. Without that giant defence boost the next part is actual suffering. Because of MMO logic, the panties you just equipped protect you more than literal metal-plated armor, so you are now absolutely busted.
+Before you do anything, open the **TERA store** and grab the free underwear. Without that giant defense boost the next part is actual suffering.
 
-Teleport to Crescentia and go south. There’s a downhill road with a bunch of Hyena Stalkers chilling there. They’re way above your level but who cares, you just equiped underwear that makes you virtually invulnerable. Pull a group of the monsters, delete them, repeat. Go slow at first, then ramp it up once you get comfy.
+Teleport to **Crescentia** and go south. There’s a downhill road with a bunch of **Hyena Stalkers** chilling there. They’re way above your level but who cares, you just equipped underwear that makes you virtually invulnerable. Pull a group of the monsters, kill them, repeat. Go slow at first, then ramp it up once you get comfy.
 
-Use your pet to vacuum up all the loot so you don’t waste time running around like a clown.
+Use your pet to collect all the loot so you don’t waste time spamming `f` like a clown.
 
-Stay here until you’re level 20. These mobs will eventually start dropping weapon shards, and once you complete the set you get your first avatar weapon. Your number one priority is getting that thing to +9 the moment you get it. If you don’t, the next section is gonna feel like punching concrete.
+Stay here until you’re **level 20**. These mobs will eventually start dropping **avatar weapon shards**, and once you complete the set you get your first **avatar weapon**. Your number one priority is getting that thing to **+9** the moment you get it. If you don’t, the next section is gonna feel like punching concrete.
 
-You’ll also start getting glyphs around this point. Invest them as soon as you unlock them, they’re massive damage boosts. Even if you have no idea in what, you can reskill at any time for free.
+You’ll also start getting **glyphs** around this point. Invest them as soon as you unlock them, they’re massive damage boosts. Even if you have no idea in what, you can reskill at any time for free.
 
 ### Level 20 to 26
 
-Once you hit level 20 and your avatar weapon is +9, head back to Crescentia and walk north into Bestial Vale. This is where you meet your first real BAMs, the normal Basilisks. They hit hard but are slow as fuck. Kill them one by one and don’t forget to swap to your BAM crystal setup.
+Once you reach **level 20** with your **avatar weapon at +9**, return to **Crescentia** and head north into **Bestial Vale**. Here you’ll encounter your first real **BAMs**, the standard **Basilisks**. They hit hard but move super slowly, so take them down one at a time, and remember to switch to your **BAM crystal setup**.
 
-These guys give solid EXP, so you can stay here for a while. Theoretically you could probably grind until level 29 here but the problem ist that you need to get the level 26 avatar weapon which doesn't drop here.
+They give decent EXP, so you can hang out here for a while. In theory, you could grind up to around **level 29**, but the catch is you’ll need the **level 26 avatar weapon**, which doesn’t drop in this area.
 
 ### Level 26 to 29
 
-This section isn't really for leveling, it's to get the next avatar weapon because the next major BAM type is level 27 which is to high for the level 20 avatar weapon.
+This part isn’t really about leveling, it’s more about getting your next **avatar weapon**, since the next major **BAM type** is **level 27**, so way too high for your **level 20 avatar weapon**.
 
-Teleport to Lumbertown and walk down to the Celestial Hills area. In the center of that area is the "Omphalos Plains" zone. 
+Teleport to **Lumbertown** and make your way down to **Celestial Hills**. In the center of that area is the **Omphalos Plains** zone.
 
-There are 3 types of BAMs here:
-- Torpid Kuma
-- Indolent Kuma
-- Some sort of Naga
+You’ll find three **BAM types** here:
 
-They all take about the same time to kill, but **Torpid Kuma** gives ~30% more EXP which is why I recommend only killing those.
+* **Torpid Kuma**
+* **Indolent Kuma**
+* Some kind of **Naga**
 
-Stay here till you get the new avatar weapon and go to the next step after making it +9.
+They all take roughly the same time to kill, but **Torpid Kuma** gives about 30% more EXP, so focus on those.
+
+Stick around until you get your new **avatar weapon**, then make it **+9** before moving on to the next step.
 
 ### Level 29 to 33
 
-Next we are doing Lurking Ovolith in front of Sinestral Manor. To get there, you can either just buy a teleport scroll from the specialty store or teleport to Popolion and walk.
+Next up is **Lurking Ovolith**, right in front of **Sinestral Manor**. You can either buy a teleport scroll from the specialty store or teleport to **Popolion** and walk there.
 
-Not much to say here, just kill them one by one again. Make sure to stay here till you get another avatar weapon.
-
-
-
-
-
+Nothing fancy here, just take them down one at a time. Stay until you get your next **avatar weapon**.

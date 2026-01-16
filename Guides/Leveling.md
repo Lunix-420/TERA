@@ -145,11 +145,34 @@ Stay here until you’re level 20. These mobs will eventually start dropping wea
 
 You’ll also start getting glyphs around this point. Invest them as soon as you unlock them, they’re massive damage boosts. Even if you have no idea in what, you can reskill at any time for free.
 
-### Level 20 to 27
+### Level 20 to 26
 
 Once you hit level 20 and your avatar weapon is +9, head back to Crescentia and walk north into Bestial Vale. This is where you meet your first real BAMs, the normal Basilisks. They hit hard but are slow as fuck. Kill them one by one and don’t forget to swap to your BAM crystal setup.
 
-These guys give solid EXP, so you can stay here for a while. I would stick around at least until level 26, but you can push it to 29 or so if it doesn’t bore you to death.
+These guys give solid EXP, so you can stay here for a while. Theoretically you could probably grind until level 29 here but the problem ist that you need to get the level 26 avatar weapon which doesn't drop here.
+
+### Level 26 to 29
+
+This section isn't really for leveling, it's to get the next avatar weapon because the next major BAM type is level 27 which is to high for the level 20 avatar weapon.
+
+Teleport to Lumbertown and walk down to the Celestial Hills area. In the center of that area is the "Omphalos Plains" zone. 
+
+There are 3 types of BAMs here:
+- Torpid Kuma
+- Indolent Kuma
+- Some sort of Naga
+
+They all take about the same time to kill, but **Torpid Kuma** gives ~30% more EXP which is why I recommend only killing those.
+
+Stay here till you get the new avatar weapon and go to the next step after making it +9.
+
+### Level 29 to 33
+
+Next we are doing Lurking Ovolith in front of Sinestral Manor. To get there, you can either just buy a teleport scroll from the specialty store or teleport to Popolion and walk.
+
+Not much to say here, just kill them one by one again. Make sure to stay here till you get another avatar weapon.
+
+
 
 
 

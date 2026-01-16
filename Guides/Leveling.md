@@ -36,8 +36,6 @@ Most of this progression relies on BAM farming and a lot of those BAMs will be K
 
 * **Mediocre gear drops:** BAMs don’t drop the best gear. This doesn’t really matter since you’ll be using avatar weapons anyway. You’ll still get the occasional decent blue or green armor piece, which isn’t ideal but absolutely does the job. Like I said earlier, most Kumas barely move, so they won’t hurt you much regardless.
 
----
-
 ## Weapon Crystals
 
 This part matters a lot. To make this strat actually work, you need the right crystals.
@@ -90,8 +88,6 @@ Use this setup when you’re clearing big packs of normal mobs.
 
 Here you go, clean and consistent with the rest of your guide while keeping your tone.
 
----
-
 ## Armor Crystals
 
 Your armor crystals matter way less than weapon crystals for killing speed, but they’re still super helpful for staying alive, especially when something decides to bonk you unexpectedly.
@@ -125,8 +121,6 @@ Use this when you’re clearing groups of normal mobs.
 * Running **4x Hardy** is obviously the best as it works everywhere and you don’t have to swap crystals constantly.
 * If you don't have the **4xHardy** just substitute with **Anarchic** for bosses and **Stalwart** when clearing normal mobs.
 
----
-
 ## Charms
 
 Charms are consumables you buy from the speciality store, then you toss them into a campfire to activate their buff. They’re are incredibly powerfull tools and playing without them is not recommended.
@@ -146,8 +140,6 @@ Charms are consumables you buy from the speciality store, then you toss them int
 * Power is really good for faster kills but not mandatory.
 * Endurance is the weakest value pick, more of a comfort buff.
 * If you’re low on cash, buying **cheap green Infused charms** is still way better than running without mana regen.
-
----
 
 ## Actual Leveling
 

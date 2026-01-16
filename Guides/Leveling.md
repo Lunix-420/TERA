@@ -1,6 +1,33 @@
 # TERA EU Classic Guide: Efficient Leveling
 
-This guide focuses on maximizing experience gain. Most of this progression relies on BAM farming and a lot of those BAMs will be Kumas types.
+This guide focuses on maximizing experience gain. 
+
+Most of this progression relies on BAM farming and a lot of those BAMs will be Kumas types.
+
+## Table of Contents
+
+* [Why BAMs?](#why-bams)
+* [Weapon Crystals](#weapon-crystals)
+
+  * [General BAM Weapon Setup](#general-bam-weapon-setup-all-classes)
+  * [Flat BAM Setup](#flat-bam-setup)
+  * [Normal Monster Farming Crystals](#normal-monster-farming-crystals)
+* [Armor Crystals](#armor-crystals)
+
+  * [BAM Armor Setup](#bam-armor-setup)
+  * [Normal Monster Setup](#normal-monster-setup)
+  * [Tips](#tips-1)
+* [Charms](#charms)
+
+  * [Recommended Charms](#recommended-charms)
+  * [Notes and Budget Tips](#notes-and-budget-tips)
+* [Actual Leveling](#actual-leveling)
+
+  * [Level 1 to 13](#level-1-to-13)
+  * [Level 13 to 20](#level-13-to-20)
+  * [Level 20 to 26](#level-20-to-26)
+  * [Level 26 to 29](#level-26-to-29)
+  * [Level 29 to 33](#level-29-to-33)
 
 ## Why BAMs?
 

@@ -25,6 +25,7 @@ Most of this progression relies on BAM farming and a lot of those BAMs will be K
 * [Level 20 to 26](#level-20-to-26)
 * [Level 26 to 28](#level-26-to-28)
 * [Level 28 to 33](#level-28-to-33)
+* [Level 33 to 38](#level-33-to-38)
 
 ## Why BAMs?
 
@@ -218,3 +219,21 @@ Next up is **Lurking Ovolith**, right in front of **Sinestral Manor**. You can e
 Nothing fancy here, just take them down one at a time. Stay until you get your next **avatar weapon**. Make sure to learn which side is back when they are idle, they give you some time to do damage before they attack you.
 
 ![Screenshot of Lurking Ovolith](../Images/screenshot_leveling_lurking_ovolith.png)
+
+---
+
+## Lvl 33 to 38
+
+You can start this as soon as you get your **lvl 32 avatar weapon** from farming **Lurking Ovolith**, then upgrade it to **+9**.
+
+Teleport to **Cutthroat Harbor**, head north into **Ascension Valley**, and make your way to **Azarel's Labyrinth**.
+
+<img alt="Location of Azarel's Labyrinth" src="../Images/map_leveling_azarels_labyrinth.png" width="500">
+
+After entering **Azarel's Labyrinth**, drop down one floor, then another, until you reach ground level. You will find three rooms next to each other that contain **Labyrinthine Stalkers**.
+
+<img alt="Location of Labyrinthine Stalker" src="../Images/map_leveling_labyrinth_stalker.png" width="500">
+
+These mobs are still pretty easy to kill, but they hit hard so stay alert. You should also get your next avatar weapon here for **lvl 38**. Technically it is best to leave at 38, but stay until you get that weapon since you will need it for the next sections.
+
+![Screenshot of Labyrinth Stalker](../Images/screenshot_leveling_labyrinth_stalker.png)

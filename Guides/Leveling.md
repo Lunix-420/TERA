@@ -1,4 +1,7 @@
-# TERA EU Classic Guide: Efficient Leveling
+# Lunix's Leveling Guide for TERA EU Classic
+
+> [!CAUTION]
+> This guide is currently unfinished, and certain sections may be incomplete or not fully written yet.
 
 This guide focuses on maximizing experience gain. 
 
@@ -186,7 +189,7 @@ This part isn’t really about leveling, it’s more about getting your next **a
 
 Teleport to **Lumbertown** and make your way down to **Celestial Hills**. In the center of that area is the **Omphalos Plains** zone.
 
-<img src="../Images/map_leveling_hyena_stalker.png" width="500">
+<img alt="Location of Torpid Kuma" src="../Images/map_leveling_torpid_kuma.png" width="500">
 
 You’ll find three **BAM types** here:
 

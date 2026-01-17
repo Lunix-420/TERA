@@ -156,32 +156,37 @@ Before you do anything, open the **TERA store** and grab the free underwear. Wit
 
 Teleport to **Crescentia** and go south. There’s a downhill road with a bunch of **Hyena Stalkers** chilling there. They’re way above your level but who cares, you just equipped underwear that makes you virtually invulnerable. Pull a group of the monsters, kill them, repeat. Go slow at first, then ramp it up once you get comfy.
 
-<img src="../Images/map_leveling_hyena_stalker.png" width="500">
+<img alt="Location of Hyena Stalker" src="../Images/map_leveling_hyena_stalker.png" width="500">
 
 Use your pet to collect all the loot so you don’t waste time spamming `f` like a clown.
 
 Stay here until you’re **level 20**. These mobs will eventually start dropping **avatar weapon shards**, and once you complete the set you get your first **avatar weapon**. Your number one priority is getting that thing to **+9** the moment you get it. If you don’t, the next section is gonna feel like punching concrete.
 
+![Screenshot of Hyena Stalker](../Images/screenshot_leveling_hyena_stalker.png)
 
 You’ll also start getting **glyphs** around this point. Invest them as soon as you unlock them, they’re massive damage boosts. Even if you have no idea in what, you can reskill at any time for free.
-
-![Screenshot of Hyena Stalker](../Images/screenshot_leveling_hyena_stalker.png)
 
 ---
 
 ## Level 20 to 26
 
-Once you reach **level 20** with your **avatar weapon at +9**, return to **Crescentia** and head north into **Bestial Vale**. Here you’ll encounter your first real **BAMs**, the standard **Basilisks**. They hit hard but move super slowly, so take them down one at a time, and remember to switch to your **BAM crystal setup**.
+Once you reach **level 20** with your **avatar weapon at +9** return to **Crescentia** and head north into **Bestial Vale**. Here you’ll encounter your first real **BAMs**, the standard **Basilisks**.
 
-![Screenshot of Hyena Stalker](../Images/screenshot_leveling_basilisk.png)
+<img alt="Location of Basilisk" src="../Images/map_leveling_hyena_stalker.png" width="500">
 
-They give decent EXP, so you can hang out here for a while. In theory, you could grind up to around **level 29**, but you can't get the **level 26 avatar weapon** here which is a problem.
+They hit hard but move super slowly, so take them down one at a time, and remember to switch to your **BAM crystal setup**. They give decent EXP, so you can hang out here for a while.
+
+![Screenshot of Basilisk](../Images/screenshot_leveling_basilisk.png)
+
+In theory, you could grind up to around **level 29**, but you can't get the **level 26 avatar weapon** here which is a problem.
 
 ## Level 26 to 28
 
 This part isn’t really about leveling, it’s more about getting your next **avatar weapon**, since the next major **BAM type** is **level 27**, so way too high for your **level 20 avatar weapon**.
 
 Teleport to **Lumbertown** and make your way down to **Celestial Hills**. In the center of that area is the **Omphalos Plains** zone.
+
+<img src="../Images/map_leveling_hyena_stalker.png" width="500">
 
 You’ll find three **BAM types** here:
 

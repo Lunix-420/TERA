@@ -156,13 +156,18 @@ Before you do anything, open the **TERA store** and grab the free underwear. Wit
 
 Teleport to **Crescentia** and go south. There’s a downhill road with a bunch of **Hyena Stalkers** chilling there. They’re way above your level but who cares, you just equipped underwear that makes you virtually invulnerable. Pull a group of the monsters, kill them, repeat. Go slow at first, then ramp it up once you get comfy.
 
-![Screenshot of Hyena Stalker](../Images/screenshot_leveling_hyena_stalker.png)
+<img src="../Images/map_leveling_hyena_stalker.png" width="500">
 
 Use your pet to collect all the loot so you don’t waste time spamming `f` like a clown.
 
 Stay here until you’re **level 20**. These mobs will eventually start dropping **avatar weapon shards**, and once you complete the set you get your first **avatar weapon**. Your number one priority is getting that thing to **+9** the moment you get it. If you don’t, the next section is gonna feel like punching concrete.
 
+
 You’ll also start getting **glyphs** around this point. Invest them as soon as you unlock them, they’re massive damage boosts. Even if you have no idea in what, you can reskill at any time for free.
+
+![Screenshot of Hyena Stalker](../Images/screenshot_leveling_hyena_stalker.png)
+
+---
 
 ## Level 20 to 26
 

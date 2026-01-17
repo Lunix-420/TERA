@@ -154,6 +154,8 @@ Don't forget to upgrade your inventory in **Velika**.
 
 Also check the Discord for coupons for the **TERA store**. **TERA EU Classic** usually gives out some boxes with **alkahest** and random crap you can sell for gold, which helps a ton with your budget.
 
+![Screenshot of Hyena Stalker](../Images/screenshot_leveling_tutorial.png)
+
 ---
 
 ## Level 13 to 20

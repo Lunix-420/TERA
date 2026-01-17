@@ -169,7 +169,7 @@ Once you reach **level 20** with your **avatar weapon at +9**, return to **Cresc
 
 They give decent EXP, so you can hang out here for a while. In theory, you could grind up to around **level 29**, but the catch is you’ll need the **level 26 avatar weapon**, which doesn’t drop in this area.
 
-### Level 26 to 29
+### Level 26 to 28
 
 This part isn’t really about leveling, it’s more about getting your next **avatar weapon**, since the next major **BAM type** is **level 27**, so way too high for your **level 20 avatar weapon**.
 
@@ -179,13 +179,13 @@ You’ll find three **BAM types** here:
 
 * **Torpid Kuma**
 * **Indolent Kuma**
-* Some kind of **Naga**
+* **Naga Mercenary**
 
 They all take roughly the same time to kill, but **Torpid Kuma** gives about 30% more EXP, so focus on those.
 
 Stick around until you get your new **avatar weapon**, then make it **+9** before moving on to the next step.
 
-### Level 29 to 33
+### Level 28 to 33
 
 Next up is **Lurking Ovolith**, right in front of **Sinestral Manor**. You can either buy a teleport scroll from the specialty store or teleport to **Popolion** and walk there.
 

@@ -167,9 +167,9 @@ Use your pet to collect all the loot so you don’t waste time spamming `f` like
 
 Stay here until you’re **level 20**. These mobs will eventually start dropping **avatar weapon shards**, and once you complete the set you get your first **avatar weapon**. Your number one priority is getting that thing to **+9** the moment you get it. If you don’t, the next section is gonna feel like punching concrete.
 
-![Screenshot of Hyena Stalker](../Images/screenshot_leveling_hyena_stalker.png)
-
 You’ll also start getting **glyphs** around this point. Invest them as soon as you unlock them, they’re massive damage boosts. Even if you have no idea in what, you can reskill at any time for free.
+
+![Screenshot of Hyena Stalker](../Images/screenshot_leveling_hyena_stalker.png)
 
 ---
 
@@ -181,9 +181,9 @@ Once you reach **level 20** with your **avatar weapon at +9** return to **Cresce
 
 They hit hard but move super slowly, so take them down one at a time, and remember to switch to your **BAM crystal setup**. They give decent EXP, so you can hang out here for a while.
 
-![Screenshot of Basilisk](../Images/screenshot_leveling_basilisk.png)
-
 In theory, you could grind up to around **level 29**, but you can't get the **level 26 avatar weapon** here which is a problem.
+
+![Screenshot of Basilisk](../Images/screenshot_leveling_basilisk.png)
 
 ---
 
@@ -203,9 +203,9 @@ You’ll find three **BAM types** here:
 
 They all take roughly the same time to kill, but **Torpid Kuma** gives about 30% more EXP, so focus on those.
 
-![Screenshot of Hyena Stalker](../Images/screenshot_leveling_torpid_kuma.png)
-
 Stick around until you get your new **avatar weapon**, then make it **+9** before moving on to the next step.
+
+![Screenshot of Torpid Kuma](../Images/screenshot_leveling_torpid_kuma.png)
 
 ---
 

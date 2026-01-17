@@ -153,6 +153,8 @@ Don't forget to upgrade your inventory in **Velika**.
 
 Also check the Discord for coupons for the **TERA store**. **TERA EU Classic** usually gives out some boxes with **alkahest** and random crap you can sell for gold, which helps a ton with your budget.
 
+---
+
 ## Level 13 to 20
 
 Before you do anything, open the **TERA store** and grab the free underwear. Without that giant defense boost the next part is actual suffering.
@@ -183,6 +185,8 @@ They hit hard but move super slowly, so take them down one at a time, and rememb
 
 In theory, you could grind up to around **level 29**, but you can't get the **level 26 avatar weapon** here which is a problem.
 
+---
+
 ## Level 26 to 28
 
 This part isn’t really about leveling, it’s more about getting your next **avatar weapon**, since the next major **BAM type** is **level 27**, so way too high for your **level 20 avatar weapon**.
@@ -202,6 +206,8 @@ They all take roughly the same time to kill, but **Torpid Kuma** gives about 30%
 ![Screenshot of Hyena Stalker](../Images/screenshot_leveling_torpid_kuma.png)
 
 Stick around until you get your new **avatar weapon**, then make it **+9** before moving on to the next step.
+
+---
 
 ## Level 28 to 33
 

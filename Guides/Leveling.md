@@ -17,12 +17,11 @@ Most of this progression relies on BAM farming and a lot of those BAMs will be K
 * [Charms](#charms)
   * [Recommended Charms](#recommended-charms)
   * [Notes and Budget Tips](#notes-and-budget-tips)
-* [Actual Leveling](#actual-leveling)
-  * [Level 1 to 13](#level-1-to-13)
-  * [Level 13 to 20](#level-13-to-20)
-  * [Level 20 to 26](#level-20-to-26)
-  * [Level 26 to 29](#level-26-to-29)
-  * [Level 29 to 33](#level-29-to-33)
+* [Level 1 to 13](#level-1-to-13)
+* [Level 13 to 20](#level-13-to-20)
+* [Level 20 to 26](#level-20-to-26)
+* [Level 26 to 29](#level-26-to-29)
+* [Level 29 to 33](#level-29-to-33)
 
 ## Why BAMs?
 

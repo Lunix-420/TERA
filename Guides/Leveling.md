@@ -23,8 +23,9 @@ Most of this progression relies on BAM farming and a lot of those BAMs will be K
 * [Level 1 to 13](#level-1-to-13)
 * [Level 13 to 20](#level-13-to-20)
 * [Level 20 to 26](#level-20-to-26)
-* [Level 26 to 29](#level-26-to-29)
-* [Level 29 to 33](#level-29-to-33)
+* [Level 26 to 28](#level-26-to-28)
+* [Level 28 to 33](#level-28-to-33)
+* [Level 33 to 38](#level-33-to-38)
 
 ## Why BAMs?
 
@@ -177,7 +178,7 @@ You’ll also start getting **glyphs** around this point. Invest them as soon as
 
 Once you reach **level 20** with your **avatar weapon at +9** return to **Crescentia** and head north into **Bestial Vale**. Here you’ll encounter your first real **BAMs**, the standard **Basilisks**.
 
-<img alt="Location of Basilisk" src="../Images/map_leveling_hyena_stalker.png" width="500">
+<img alt="Location of Basilisk" src="../Images/map_leveling_basilisk.png" width="500">
 
 They hit hard but move super slowly, so take them down one at a time, and remember to switch to your **BAM crystal setup**. They give decent EXP, so you can hang out here for a while.
 
@@ -213,4 +214,26 @@ Stick around until you get your new **avatar weapon**, then make it **+9** befor
 
 Next up is **Lurking Ovolith**, right in front of **Sinestral Manor**. You can either buy a teleport scroll from the specialty store or teleport to **Popolion** and walk there.
 
-Nothing fancy here, just take them down one at a time. Stay until you get your next **avatar weapon**.
+<img alt="Location of Lurking Ovolith" src="../Images/map_leveling_lurking_ovolith.png" width="500">
+
+Nothing fancy here, just take them down one at a time. Stay until you get your next **avatar weapon**. Make sure to learn which side is back when they are idle, they give you some time to do damage before they attack you.
+
+![Screenshot of Lurking Ovolith](../Images/screenshot_leveling_lurking_ovolith.png)
+
+---
+
+## Lvl 33 to 38
+
+You can start this as soon as you get your **lvl 32 avatar weapon** from farming **Lurking Ovolith**, then upgrade it to **+9**.
+
+Teleport to **Cutthroat Harbor**, head north into **Ascension Valley**, and make your way to **Azarel's Labyrinth**.
+
+<img alt="Location of Azarel's Labyrinth" src="../Images/map_leveling_azarels_labyrinth.png" width="500">
+
+After entering **Azarel's Labyrinth**, drop down one floor, then another, until you reach ground level. You will find three rooms next to each other that contain **Labyrinthine Stalkers**.
+
+<img alt="Location of Labyrinthine Stalker" src="../Images/map_leveling_labyrinth_stalker.png" width="500">
+
+These mobs are still pretty easy to kill, but they hit hard so stay alert. You should also get your next avatar weapon here for **lvl 38**. Technically it is best to leave at 38, but stay until you get that weapon since you will need it for the next sections.
+
+![Screenshot of Labyrinth Stalker](../Images/screenshot_leveling_labyrinth_stalker.png)

@@ -6,16 +6,11 @@ This project is not affiliated with the TERA EU Classic server team. All guides 
 
 ## Contents
 
-### Leveling Guide
-A complete leveling route that covers the most efficient progression.  
-Located in: `guides/leveling.md`
+* [Leveling Guide](Guides/Leveling.md)
 
-### Future Guides
-Planned additions:
+### Planned additions:
 - Slayer Guide
 - Priest Guide 
-
-Folders and files will be added as the project grows.
 
 ## Contributing
 This repository is primarily for personal guide development, but suggestions and corrections are welcome.  

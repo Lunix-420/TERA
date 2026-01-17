@@ -177,7 +177,7 @@ You’ll also start getting **glyphs** around this point. Invest them as soon as
 
 Once you reach **level 20** with your **avatar weapon at +9** return to **Crescentia** and head north into **Bestial Vale**. Here you’ll encounter your first real **BAMs**, the standard **Basilisks**.
 
-<img alt="Location of Basilisk" src="../Images/map_leveling_hyena_stalker.png" width="500">
+<img alt="Location of Basilisk" src="../Images/map_leveling_basilisk.png" width="500">
 
 They hit hard but move super slowly, so take them down one at a time, and remember to switch to your **BAM crystal setup**. They give decent EXP, so you can hang out here for a while.
 

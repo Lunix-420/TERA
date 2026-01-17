@@ -213,4 +213,8 @@ Stick around until you get your new **avatar weapon**, then make it **+9** befor
 
 Next up is **Lurking Ovolith**, right in front of **Sinestral Manor**. You can either buy a teleport scroll from the specialty store or teleport to **Popolion** and walk there.
 
-Nothing fancy here, just take them down one at a time. Stay until you get your next **avatar weapon**.
+<img alt="Location of Lurking Ovolith" src="../Images/map_leveling_lurking_ovolith.png" width="500">
+
+Nothing fancy here, just take them down one at a time. Stay until you get your next **avatar weapon**. Make sure to learn which side is back when they are idle, they give you some time to do damage before they attack you.
+
+![Screenshot of Lurking Ovolith](../Images/screenshot_leveling_lurking_ovolith.png)

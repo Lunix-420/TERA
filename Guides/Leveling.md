@@ -141,9 +141,9 @@ Charms are consumables you buy from the speciality store, then you toss them int
 * Endurance is the weakest value pick, more of a comfort buff.
 * If you’re low on cash, buying **cheap green Infused charms** is still way better than running without mana regen.
 
-## Actual Leveling
+---
 
-### Level 1 to 13
+## Level 1 to 13
 
 Just follow the main quest line until you hit **level 13** or reach **Lumbertown**, whichever comes first. After that stop questing entirely until **level 60**. Quests are a waste of time.
 
@@ -151,11 +151,13 @@ Don't forget to upgrade your inventory in **Velika**.
 
 Also check the Discord for coupons for the **TERA store**. **TERA EU Classic** usually gives out some boxes with **alkahest** and random crap you can sell for gold, which helps a ton with your budget.
 
-### Level 13 to 20
+## Level 13 to 20
 
 Before you do anything, open the **TERA store** and grab the free underwear. Without that giant defense boost the next part is actual suffering.
 
 Teleport to **Crescentia** and go south. There’s a downhill road with a bunch of **Hyena Stalkers** chilling there. They’re way above your level but who cares, you just equipped underwear that makes you virtually invulnerable. Pull a group of the monsters, kill them, repeat. Go slow at first, then ramp it up once you get comfy.
+
+![Screenshot of Hyena Stalker](../Images/screenshot_leveling_hyena_stalker.png)
 
 Use your pet to collect all the loot so you don’t waste time spamming `f` like a clown.
 
@@ -163,13 +165,15 @@ Stay here until you’re **level 20**. These mobs will eventually start dropping
 
 You’ll also start getting **glyphs** around this point. Invest them as soon as you unlock them, they’re massive damage boosts. Even if you have no idea in what, you can reskill at any time for free.
 
-### Level 20 to 26
+## Level 20 to 26
 
 Once you reach **level 20** with your **avatar weapon at +9**, return to **Crescentia** and head north into **Bestial Vale**. Here you’ll encounter your first real **BAMs**, the standard **Basilisks**. They hit hard but move super slowly, so take them down one at a time, and remember to switch to your **BAM crystal setup**.
 
-They give decent EXP, so you can hang out here for a while. In theory, you could grind up to around **level 29**, but the catch is you’ll need the **level 26 avatar weapon**, which doesn’t drop in this area.
+![Screenshot of Hyena Stalker](../Images/screenshot_leveling_basilisk.png)
 
-### Level 26 to 28
+They give decent EXP, so you can hang out here for a while. In theory, you could grind up to around **level 29**, but you can't get the **level 26 avatar weapon** here which is a problem.
+
+## Level 26 to 28
 
 This part isn’t really about leveling, it’s more about getting your next **avatar weapon**, since the next major **BAM type** is **level 27**, so way too high for your **level 20 avatar weapon**.
 
@@ -183,9 +187,11 @@ You’ll find three **BAM types** here:
 
 They all take roughly the same time to kill, but **Torpid Kuma** gives about 30% more EXP, so focus on those.
 
+![Screenshot of Hyena Stalker](../Images/screenshot_leveling_torpid_kuma.png)
+
 Stick around until you get your new **avatar weapon**, then make it **+9** before moving on to the next step.
 
-### Level 28 to 33
+## Level 28 to 33
 
 Next up is **Lurking Ovolith**, right in front of **Sinestral Manor**. You can either buy a teleport scroll from the specialty store or teleport to **Popolion** and walk there.
 

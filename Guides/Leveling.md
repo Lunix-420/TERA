@@ -224,7 +224,7 @@ Nothing fancy here, just take them down one at a time. Stay until you get your n
 
 ---
 
-## Lvl 33 to 38
+## Level 33 to 38
 
 You can start this as soon as you get your **lvl 32 avatar weapon** from farming **Lurking Ovolith**, then upgrade it to **+9**.
 

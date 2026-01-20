@@ -20,12 +20,12 @@ Most of this progression relies on BAM farming and a lot of those BAMs will be K
 * [Charms](#charms)
   * [Recommended Charms](#recommended-charms)
   * [Notes and Budget Tips](#notes-and-budget-tips)
-* [Level 1 to 13](#level-1-to-13)
-* [Level 13 to 20](#level-13-to-20)
-* [Level 20 to 26](#level-20-to-26)
-* [Level 26 to 28](#level-26-to-28)
-* [Level 28 to 33](#level-28-to-33)
-* [Level 33 to 38](#level-33-to-38)
+* [Level 01–13: Tutorial Area](#level-1-13-tutorial-area)
+* [Level 13–20: Crescentia](#level-13-20-crescentia)
+* [Level 20–24: Bestial Vale ](#level-20-24-bestial-vale-optional)
+* [Level 20–28: Omphalos Plains](#level-20-28-omphalos-plains)
+* [Level 28–33: Sinestral Manor](#level-28-33-sinestral-manor)
+* [Level 33–36: Azarel's Labyrinth](#level-33-36-azarels-labyrinth-optional)
 
 ## Why BAMs?
 
@@ -146,7 +146,7 @@ Charms are consumables you buy from the speciality store, then you toss them int
 
 ---
 
-## Level 1 to 13
+## Level 01–13: Tutorial Area
 
 Just follow the main quest line until you hit **level 13** or reach **Lumbertown**, whichever comes first. After that stop questing entirely until **level 60**. Quests are a waste of time.
 
@@ -158,7 +158,7 @@ Also check the Discord for coupons for the **TERA store**. **TERA EU Classic** u
 
 ---
 
-## Level 13 to 20
+## Level 13–20: Crescentia
 
 Before you do anything, open the **TERA store** and grab the free underwear. Without that giant defense boost the next part is actual suffering.
 
@@ -176,23 +176,30 @@ You’ll also start getting **glyphs** around this point. Invest them as soon as
 
 ---
 
-## Level 20 to 26
+## Level 20–24: Bestial Vale [Optional]
 
-Once you reach **level 20** with your **avatar weapon at +9** return to **Crescentia** and head north into **Bestial Vale**. Here you’ll encounter your first real **BAMs**, the standard **Basilisks**.
+> [!WARNING]
+> **Optional Area**  
+> Noteworthy, but not the most efficient area. Also does not progress your Avatar Weapon.  
+> Useful as a fallback if you struggle with the next area.
+
+Requires the **level 20 avatar weapon** at **+9**.
+
+Return to **Crescentia** and head north into **Bestial Vale**. Here you’ll encounter your first real **BAMs**, the standard **Basilisks**.
 
 <img alt="Location of Basilisk" src="../Images/map_leveling_basilisk.png" width="500">
 
 They hit hard but move super slowly, so take them down one at a time, and remember to switch to your **BAM crystal setup**. They give decent EXP, so you can hang out here for a while.
 
-In theory, you could grind up to around **level 29**, but you can't get the **level 26 avatar weapon** here which is a problem.
+In theory, you could easily grind up to around **level 28** here, but you won't get the **level 26 avatar weapon** so don't stay longer than **level 24**
 
 ![Screenshot of Basilisk](../Images/screenshot_leveling_basilisk.png)
 
 ---
 
-## Level 26 to 28
+## Level 20–28: Omphalos Plains
 
-This part isn’t really about leveling, it’s more about getting your next **avatar weapon**, since the next major **BAM type** is **level 27**, so way too high for your **level 20 avatar weapon**.
+Requires the **level 20 avatar weapon** at **+9**.
 
 Teleport to **Lumbertown** and make your way down to **Celestial Hills**. In the center of that area is the **Omphalos Plains** zone.
 
@@ -206,13 +213,15 @@ You’ll find three **BAM types** here:
 
 They all take roughly the same time to kill, but **Torpid Kuma** gives about 30% more EXP, so focus on those.
 
-Stick around until you get your new **avatar weapon**, then make it **+9** before moving on to the next step.
+Stick around until you get your new **lvl 26 avatar weapon**, then make it **+9** before moving on to the next step.
 
 ![Screenshot of Torpid Kuma](../Images/screenshot_leveling_torpid_kuma.png)
 
 ---
 
-## Level 28 to 33
+## Level 28–33: Sinestral Manor
+
+Requires the **level 26 avatar weapon** at **+9**.
 
 Next up is **Lurking Ovolith**, right in front of **Sinestral Manor**. You can either buy a teleport scroll from the specialty store or teleport to **Popolion** and walk there.
 
@@ -224,9 +233,14 @@ Nothing fancy here, just take them down one at a time. Stay until you get your n
 
 ---
 
-## Level 33 to 38
+## Level 33–36: Azarel's Labyrinth [Optional]
 
-You can start this as soon as you get your **lvl 32 avatar weapon** from farming **Lurking Ovolith**, then upgrade it to **+9**.
+> [!WARNING]
+> **Optional Area**  
+> Noteworthy, but not the most efficient area. Also does not progress your Avatar Weapon.  
+> Useful as a fallback if you struggle with the next area.
+
+Requires the **level 32 avatar weapon** at **+9**.
 
 Teleport to **Cutthroat Harbor**, head north into **Ascension Valley**, and make your way to **Azarel's Labyrinth**.
 
@@ -236,6 +250,6 @@ After entering **Azarel's Labyrinth**, drop down one floor, then another, until 
 
 <img alt="Location of Labyrinthine Stalker" src="../Images/map_leveling_labyrinth_stalker.png" width="500">
 
-These mobs are still pretty easy to kill, but they hit hard so stay alert. You should also get your next avatar weapon here for **lvl 38**. Technically it is best to leave at 38, but stay until you get that weapon since you will need it for the next sections.
+These mobs are still pretty easy to kill, but they hit hard so stay alert. You could theoretically do this till **lvl 38** but you won't get your next avatar weapon here, so don't stay longer than **lvl 36**.
 
 ![Screenshot of Labyrinth Stalker](../Images/screenshot_leveling_labyrinth_stalker.png)

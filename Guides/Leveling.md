@@ -26,6 +26,7 @@ Most of this progression relies on BAM farming and a lot of those BAMs will be K
 * [Level 20–28: Omphalos Plains](#level-2028-omphalos-plains)
 * [Level 28–33: Sinestral Manor](#level-2833-sinestral-manor)
 * [Level 33–36: Azarel's Labyrinth](#level-3336-azarels-labyrinth-optional)
+* [Level 33–39: Lake of Tears](#level-3339-lake-of-tears)
 
 ## Why BAMs?
 
@@ -255,3 +256,17 @@ After entering **Azarel's Labyrinth**, drop down one floor, then another, until 
 These mobs are still pretty easy to kill, but they hit hard so stay alert. You could theoretically do this till **lvl 38** but you won't get your next avatar weapon here, so don't stay longer than **lvl 36**.
 
 ![Screenshot of Labyrinth Stalker](../Images/screenshot_leveling_labyrinth_stalker.png)
+
+---
+
+## Level 33–39: Lake of Tears
+
+Requires the **level 32 avatar weapon** at **+9**.
+
+Teleport to **Pora Elinu** in the **Lake of Tears** area in the **Poporia** province. To the east of the city, between **Blessed Woods** and **Bloodtalon Camp** you will find **Lurking Teralith**.
+
+<img alt="Location of Lurking Teralith" src="../Images/map_leveling_lurking_teralith.png" width="500">
+
+These things just sit there doing nothing for quite a while, so they are really fucking easy to kill. Kill these at least until you get the **level 38 avatar weapon**.
+
+![Screenshot of Lurking Ovolith](../Images/screenshot_leveling_lurking_teralith.png)

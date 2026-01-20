@@ -20,12 +20,12 @@ Most of this progression relies on BAM farming and a lot of those BAMs will be K
 * [Charms](#charms)
   * [Recommended Charms](#recommended-charms)
   * [Notes and Budget Tips](#notes-and-budget-tips)
-* [Level 01–13: Tutorial Area](#level-1-13-tutorial-area)
-* [Level 13–20: Crescentia](#level-13-20-crescentia)
-* [Level 20–24: Bestial Vale ](#level-20-24-bestial-vale-optional)
-* [Level 20–28: Omphalos Plains](#level-20-28-omphalos-plains)
-* [Level 28–33: Sinestral Manor](#level-28-33-sinestral-manor)
-* [Level 33–36: Azarel's Labyrinth](#level-33-36-azarels-labyrinth-optional)
+* [Level 01–13: Tutorial Area](#level-0113-tutorial-area)
+* [Level 13–20: Crescentia](#level-1320-crescentia)
+* [Level 20–24: Bestial Vale ](#level-2024-bestial-vale-optional)
+* [Level 20–28: Omphalos Plains](#level-2028-omphalos-plains)
+* [Level 28–33: Sinestral Manor](#level-2833-sinestral-manor)
+* [Level 33–36: Azarel's Labyrinth](#level-3336-azarels-labyrinth-optional)
 
 ## Why BAMs?
 

@@ -22,7 +22,7 @@ Most of this progression relies on BAM farming and a lot of those BAMs will be K
   * [Notes and Budget Tips](#notes-and-budget-tips)
 * [Level 01–13: Tutorial Area](#level-0113-tutorial-area)
 * [Level 13–20: Crescentia](#level-1320-crescentia)
-* [Level 20–24: Bestial Vale ](#level-2024-bestial-vale-optional)
+* [Level 20–24: Bestial Vale](#level-2024-bestial-vale-optional)
 * [Level 20–28: Omphalos Plains](#level-2028-omphalos-plains)
 * [Level 28–33: Sinestral Manor](#level-2833-sinestral-manor)
 * [Level 33–36: Azarel's Labyrinth](#level-3336-azarels-labyrinth-optional)
@@ -180,8 +180,9 @@ You’ll also start getting **glyphs** around this point. Invest them as soon as
 
 > [!WARNING]
 > **Optional Area**  
-> Noteworthy, but not the most efficient area. Also does not progress your Avatar Weapon.  
-> Useful as a fallback if you struggle with the next area.
+> Noteworthy, but not the most efficient area. \
+> Does not progress your Avatar Weapon. \
+> Skipping this is recommended.
 
 Requires the **level 20 avatar weapon** at **+9**.
 
@@ -237,8 +238,9 @@ Nothing fancy here, just take them down one at a time. Stay until you get your n
 
 > [!WARNING]
 > **Optional Area**  
-> Noteworthy, but not the most efficient area. Also does not progress your Avatar Weapon.  
-> Useful as a fallback if you struggle with the next area.
+> Noteworthy, but not the most efficient area. \
+> Does not progress your Avatar Weapon. \
+> Skipping this is recommended.
 
 Requires the **level 32 avatar weapon** at **+9**.
 
